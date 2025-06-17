@@ -4,3 +4,4 @@
 ##Testando commit agora
 ###Salvando alteraçoes
 ##Comando git push
+##comando git fetch
